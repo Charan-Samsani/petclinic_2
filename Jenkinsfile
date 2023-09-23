@@ -10,7 +10,7 @@ pipeline{
         {
             steps
             {
-                git 'https://github.com/MahaboobBasha0028/springpetclinic.git'
+                git 'https://github.com/Charan-Samsani/petclinic_2.git'
             }
         }
     }
